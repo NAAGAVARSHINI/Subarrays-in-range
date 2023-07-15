@@ -1,7 +1,6 @@
 # Subarrays-in-range
 Given an array A of length N, return the subarray from B to C.
 
-:speech_bubble:  24 hours ago
 Input
 A = [4, 3, 2, 6]
 B = 1
